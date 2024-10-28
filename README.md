@@ -1,9 +1,9 @@
 ## Olá! Seja bem-vindo ao meu perfil 😄
-### Sou uma programadora, atualmente, uma estudante do curso de Ciência de Dados e Negócios da ESPM.
+### Sou uma programadora, e atualmente, uma estudante do curso de Ciência de Dados e Negócios da ESPM.
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgabriel4&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgabriel4&layout=compact&langs_count=16&theme=pink"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgabriel4&layout=compact&langs_count=16&theme=pink"/>
 </div>
 
 <div style="display: inline_block"><br>
