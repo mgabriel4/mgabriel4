@@ -1,18 +1,25 @@
-## Olá! Seja bem-vindo ao meu perfil 👩‍💻
-### Sou uma programadora, e atualmente, uma estudante do curso de Ciência de Dados e Negócios da ESPM.
+## Olá! 👋👋
+<p>
+  Sou uma estudante do 4° semestre do curso Sistemas de Informação focado em dados. 
+</p>
 <div>
+  <h2> 📊 Estatísticas </h2>
   <a href="https://github.com/rafaballerini">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mgabriel4&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
+  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=mgabriel4&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
   <img align="center"height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgabriel4&layout=compact&langs_count=16&theme=pink"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+<div>
+  <h2> ⚙ Linguagens e Ferramentas </h2>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  </div>
 </div>
 
 ##
