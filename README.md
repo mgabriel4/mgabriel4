@@ -1,6 +1,6 @@
 ## Olá! 👋👋
 <p>
-  Sou uma estudante do 4° semestre do curso Sistemas de Informação focado em dados. 
+  Eu sou uma estudante do curso Ciência de Dados e Negócios. 
 </p>
 <div>
   <h2> 📊 Estatísticas </h2>
