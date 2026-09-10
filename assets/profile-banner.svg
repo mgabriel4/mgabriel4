@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="358" rx="30" fill="#EEE8DF" stroke="#2C365A" stroke-width="2"/>
+
+  <circle cx="1128" cy="42" r="122" fill="#839788" fill-opacity="0.18"/>
+  <path d="M796 360C833 280 890 246 952 256C1013 266 1031 326 1096 330C1137 333 1166 317 1200 281V360H796Z" fill="#839788" fill-opacity="0.22"/>
+  <circle cx="774" cy="73" r="5" fill="#839788"/>
+  <circle cx="794" cy="73" r="5" fill="#839788" fill-opacity="0.7"/>
+  <circle cx="814" cy="73" r="5" fill="#839788" fill-opacity="0.4"/>
+
+  <text x="72" y="66" fill="#839788" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="4">MG / DADOS &amp; NEGÓCIOS</text>
+
+  <text x="68" y="145" fill="#2C365A" font-family="Georgia, 'Times New Roman', serif" font-size="58">Maria Gabriela</text>
+  <text x="68" y="207" fill="#0F2162" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-style="italic">Vieira</text>
+
+  <text x="72" y="250" fill="#2C365A" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.1">ENGENHARIA DE DADOS  ·  CIÊNCIA DE DADOS  ·  NEGÓCIOS</text>
+
+  <line x1="72" y1="286" x2="137" y2="286" stroke="#839788" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="148" cy="286" r="5" fill="#839788"/>
+  <line x1="159" y1="286" x2="224" y2="286" stroke="#839788" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="235" cy="286" r="5" fill="#839788"/>
+  <line x1="246" y1="286" x2="311" y2="286" stroke="#839788" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="72" y="316" fill="#5F6B85" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.1">dados brutos</text>
+  <text x="177" y="316" fill="#5F6B85" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.1">contexto</text>
+  <text x="269" y="316" fill="#5F6B85" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.1">decisão</text>
+
+  <rect x="846" y="49" width="286" height="260" rx="25" fill="#2C365A"/>
+  <text x="882" y="88" fill="#839788" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">O CAMINHO DO DADO</text>
+
+  <line x1="900" y1="125" x2="900" y2="250" stroke="#839788" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="900" cy="130" r="8" fill="#EEE8DF"/>
+  <circle cx="900" cy="190" r="8" fill="#839788"/>
+  <circle cx="900" cy="250" r="8" fill="#EEE8DF"/>
+
+  <text x="928" y="125" fill="#839788" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">01</text>
+  <text x="970" y="137" fill="#EEE8DF" font-family="Georgia, 'Times New Roman', serif" font-size="25">coletar</text>
+
+  <text x="928" y="185" fill="#839788" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">02</text>
+  <text x="970" y="197" fill="#EEE8DF" font-family="Georgia, 'Times New Roman', serif" font-size="25">organizar</text>
+
+  <text x="928" y="245" fill="#839788" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">03</text>
+  <text x="970" y="257" fill="#EEE8DF" font-family="Georgia, 'Times New Roman', serif" font-size="25">entregar</text>
+
+  <text x="882" y="289" fill="#839788" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">SÃO PAULO · BR</text>
+</svg>
