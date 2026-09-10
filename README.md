@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Maria Gabriela Vieira — Engenharia de Dados, Ciência de Dados e Negócios">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/maria-gabriela-vieira-tech/"><img src="https://img.shields.io/badge/LinkedIn-2C365A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mgabriel4.tech@gmail.com"><img src="https://img.shields.io/badge/E--mail-839788?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://mgabriel4.github.io/portifolio/"><img src="https://img.shields.io/badge/Portfólio-0F2162?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
@@ -15,14 +11,14 @@
     <td width="59%" valign="top">
       <sub>UM POUCO SOBRE MIM</sub>
       <h3>Dados com contexto, estrutura e propósito.</h3>
-      <p>Eu sou a Gaby — estudante de <strong>Ciência de Dados e Negócios na ESPM</strong> e estagiária de <strong>Engenharia de Dados</strong>.</p>
+      <p>Eu sou a Gaby, estudante de <strong>Ciência de Dados e Negócios na ESPM</strong> e estagiária de <strong>Engenharia de Dados</strong>.</p>
       <p>Gosto de pegar processos que parecem confusos, organizar o caminho do dado e tornar a informação mais clara para quem vai usá-la. Hoje transito entre ingestão, arquitetura lakehouse, qualidade, governança, monitoramento e documentação, sempre aproximando a parte técnica do contexto do negócio.</p>
     </td>
     <td width="41%" valign="top">
       <sub>AGORA</sub>
       <h3>O que está acontecendo por aqui</h3>
       <p>💼 <strong>Atuação</strong><br>Engenharia de Dados</p>
-      <p>🌱 <strong>Aprofundando</strong><br>PySpark, Databricks, orquestração e cloud</p>
+      <p>🌱 <strong>Aprofundando</strong><br>PySpark, Databricks, Orquestração e Cloud</p>
       <p>🎓 <strong>Formação</strong><br>Conclusão prevista para dez/2027</p>
     </td>
   </tr>
