@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-gabriela-vieira-tech/"><img src="https://img.shields.io/badge/LinkedIn-2C365A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mgabriel4.tech@gmail.com"><img src="https://img.shields.io/badge/E--mail-839788?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://mgabriel4.github.io/portifolio/"><img src="https://img.shields.io/badge/Portfólio-0F2162?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-</p>
-
 <br>
 
 <table>
@@ -110,13 +104,11 @@
 <div align="center">
   <h3>vamos trocar uma ideia?</h3>
   <p>Dados, tecnologia, projetos acadêmicos ou desenvolvimento profissional — minha caixa de entrada está aberta.</p>
-  <p>
-    <a href="mailto:mgabriel4.tech@gmail.com"><strong>e-mail</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/maria-gabriela-vieira-tech/"><strong>LinkedIn</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://mgabriel4.github.io/portifolio/"><strong>portfólio</strong></a>
-  </p>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/maria-gabriela-vieira-tech/"><img src="https://img.shields.io/badge/LinkedIn-2C365A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="mailto:mgabriel4.tech@gmail.com"><img src="https://img.shields.io/badge/E--mail-839788?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+      <a href="https://mgabriel4.github.io/portifolio/"><img src="https://img.shields.io/badge/Portfólio-0F2162?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+    </p>
   <br>
   <p><em>ainda aprendendo — já construindo.</em></p>
 </div>
